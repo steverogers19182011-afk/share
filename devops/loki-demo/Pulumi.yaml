@@ -1,7 +1,0 @@
-name: loki-demo
-runtime: nodejs
-config:
-    pulumi:disable-default-providers:
-        - aws
-        - kubernetes
-        - random
